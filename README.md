@@ -1,2 +1,1 @@
-# tindog-startup-website
-a static website for startups.
+TinDog Starting Files
